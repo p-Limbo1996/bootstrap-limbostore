@@ -21,7 +21,7 @@ Here is a screenshot of the website:
 To use this project, follow these steps:
 
 ```bash
-git clone https://github.com/username/repository.git
+git clone https://github.com/username/repository.git```
 cd bootstrap-limbostore
 Open index.html in your web browser to view the site
 
