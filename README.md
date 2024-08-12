@@ -26,7 +26,7 @@ cd bootstrap-limbostore
 Open index.html in your web browser to view the site
 
 ##🌟 Features
-Responsive design using Bootstrap
-Simple and customizable structure
-Interactive elements with JavaScript
-Optimized for various screen sizes and devices
+####Responsive design using Bootstrap
+###Simple and customizable structure
+####Interactive elements with JavaScript
+####Optimized for various screen sizes and devices
